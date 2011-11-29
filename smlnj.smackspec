@@ -1,0 +1,12 @@
+provides: smlnj 110.73.0
+description: SML/NJ, a compiler for Standard ML
+comment: This package is an installer that fetches and builds SML/NJ.
+maintainer: Michael Sullivan <sully at msully dot net>
+license: BSD-like
+keywords: SML compiler
+bug-url: https://github.com/standardml/smlnj-installer/issues
+upstream-url: http://www.smlnj.org/
+upstream-version: 110.73
+platform: *
+   build: make
+   install: make install
