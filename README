@@ -1,0 +1,11 @@
+An SML/NJ smackage. (Sort of.)
+
+This package isn't *really* a package of SML/NJ. SML/NJ has a wacky
+subversion repo layout that I didn't really want to deal with
+mirroring in git.
+
+This package is a simple script to fetch and build SML/NJ and a simple
+script to install symlinks to the sml/nj binaries in a useful place.
+
+This is then packaged up as a smackage to make it easy to get an
+sml/nj install.
