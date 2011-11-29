@@ -10,8 +10,6 @@ script to install symlinks to the sml/nj binaries in a useful place.
 This is then packaged up as a smackage to make it easy to get an
 sml/nj install.
 
-SML/NJ doesn't version according to the semantic versioning spec, but
-for now we are reusing the SML/NJ version number for our version. SML
-version 110.XX will be 110.XX.0. If they release backwards
-incompatible changes or actully release 111, we will have to increment
-to 111.0.0 and will feel stupid.
+SML/NJ doesn't version according to the semantic versioning spec, so
+the version number for the smackage is really a version number for the
+installer script.
