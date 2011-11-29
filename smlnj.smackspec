@@ -1,4 +1,4 @@
-provides: smlnj 1.0.0
+provides: smlnj 1.0.1
 description: SML/NJ, a compiler for Standard ML
 comment: This package is an installer that fetches and builds SML/NJ.
 maintainer: Michael Sullivan <sully at msully dot net>
