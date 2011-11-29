@@ -1,2 +1,13 @@
 *~
-src/
+*.tgz
+base
+bin
+cml
+config
+lib
+ml-lex
+ml-lpt
+MLRISC
+ml-yacc
+smlnj-lib
+trace-debug-profile
