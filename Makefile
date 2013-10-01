@@ -1,5 +1,5 @@
 bin/.heap/sml.x86-linux:
-	_smackage/build.sh 110.73
+	_smackage/build.sh 110.76
 
 clean:
 	rm -rf *.tgz base bin cml config lib ml-lex ml-lpt MLRISC ml-yacc smlnj-lib trace-debug-profile
